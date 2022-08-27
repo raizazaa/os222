@@ -1,0 +1,4 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+
+ZCZC W00 25 L00 General, etc.
