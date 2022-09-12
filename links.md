@@ -13,4 +13,3 @@ By {{ site.author }}
 
 1. [OS main website](https://os.vlsm.org/)<br>
 Main website for Operating System course. Useful to build linux from scratch.
-2. 
