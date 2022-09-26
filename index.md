@@ -1,11 +1,9 @@
-# [Operating Systems - 2022-2](https://raizazaa.github.io/os222/)
-by raizazaa
+By {{ site.author }}
 
-
-[LOG](TXT/mylog.txt) ---
-[LINKS](https://raizazaa.github.io/os222/LINKS/) ---
-[TARBALL](https://os.vlsm.org/Log/raizazaa.tar.bz2.txt) ---
-[GITHUB](https://github.com/raizazaa/os222)
-
+[HOME]({{ site.baseurl }})
+[LINKS]({{ site.baseurl }}/LINKS/)
+[LOG]({{ site.baseurl }}{{site.loglink}})
+[GITHUB]({{ site.githublink }})
+<br>
 <hr>
-Version: {{ site.version }}
+{{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
