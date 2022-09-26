@@ -20,3 +20,11 @@ ZCZC W02 10   L03 Finishing the assignments
 ZCZC W02 15   L43 Looking at the links by my peers
 ZCZC W02 10   L44 Understanding myscript.sh
 ZCZC W02 20   L04 Updating my GitHub page
+
+ZCZC W03 120  L09 Weekly Assignments
+ZCZC W03 6    L05 Weekly Quiz
+ZCZC W03 90   L02 Tuesday Zoom Meeting
+ZCZC W03 90   L02 Thursday Offline Class
+ZCZC W03 10   L03 Finishing the assignments
+ZCZC W03 10   L43 Checking links
+ZCZC W03 20   L04 Updating GitHub page
