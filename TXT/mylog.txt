@@ -28,3 +28,11 @@ ZCZC W03 90   L02 Thursday Offline Class
 ZCZC W03 10   L03 Finishing the assignments
 ZCZC W03 10   L43 Checking links
 ZCZC W03 20   L04 Updating GitHub page
+
+ZCZC W04 60   L09 Weekly Assignments
+ZCZC W04 8    L05 Weekly Quiz
+ZCZC W04 90   L02 Tuesday Zoom Meeting
+ZCZC W04 90   L02 Thursday Offline Class
+ZCZC W04 15   L03 Finishing assignments
+ZCZC W04 12   L43 Check Links
+ZCZC W04 20   L04 Updating /TXT/ stuff 
