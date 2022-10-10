@@ -36,3 +36,10 @@ ZCZC W04 90   L02 Thursday Offline Class
 ZCZC W04 15   L03 Finishing assignments
 ZCZC W04 12   L43 Check Links
 ZCZC W04 20   L04 Updating /TXT/ stuff 
+
+ZCZC W05 90   L09 Doing Weekly Assignments mostly learn more on C program
+ZCZC W05 8    L05 Weekly Quiz
+ZCZC W05 90   L02 Thursday Offline Class
+ZCZC W05 10   L03 Finishing assignments
+ZCZC W05 13   L43 Checking links
+ZCZC W05 18   L04 Updating links and /TXT/ stuff

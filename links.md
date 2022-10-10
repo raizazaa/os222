@@ -1,4 +1,4 @@
----
+https://www.programiz.com/---
 permalink: LINKS/
 ---
 
@@ -25,3 +25,6 @@ This is the Youtube video that I watched to understand c compile and makefiles.
 
 5. [Compress with xz and tar](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/)<br>
 This is the site where I learn how to compress file with xz. And also to compress whole directory with tar.
+
+6. [https://www.programiz.com/](Learn to code in general)<br>
+I find this site useful if you want to learn more about coding in general. I learn how to increment integers in C program from here.
