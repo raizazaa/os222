@@ -43,3 +43,10 @@ ZCZC W05 90   L02 Thursday Offline Class
 ZCZC W05 10   L03 Finishing assignments
 ZCZC W05 13   L43 Checking links
 ZCZC W05 18   L04 Updating links and /TXT/ stuff
+
+ZCZC W06 120  L09 Doing Weekly Assignments and pop quiz stuff
+ZCZC W06 5    L05 One of weekly quiz
+ZCZC W06 90   L02 Thursday Offline Class
+ZCZC W06 10   L03 Finishing Assignments
+ZCZC W06 13   L43 Checking links
+ZCZC W06 15   L04 Updating links and /TXT/ stuff
